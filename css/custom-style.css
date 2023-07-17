@@ -1,0 +1,57 @@
+.fixed {
+  position: fixed;
+  bottom: 0px;
+}
+.my-auto {
+  margin: 0%;
+  min-width: 1000px !important;
+}
+
+.profile-box {
+  width: 500px !important;
+  font-size: 20px;
+  margin-left: 20%;
+}
+
+.add-one {
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 22px;
+  background-color: rgb(42, 102, 190);
+  border-radius: 5px;
+  padding-block-end: 0px 10px;
+  margin-top: 10px;
+}
+
+.card-body.dash {
+  padding-bottom: 0px !important;
+  padding-right: 0px !important;
+}
+
+.list {
+  color: gray;
+  font-weight: 500;
+}
+
+.list:hover {
+  font-size: 18px;
+}
+
+.delete {
+  color: white;
+  background-color: rgb(231, 76, 60);
+  text-align: center;
+  margin-top: 60px;
+  font-weight: 700;
+  border-radius: 5px;
+  min-width: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.dynamic-element {
+  margin-bottom: 0px;
+}
